@@ -1,3 +1,3 @@
 # Dogbot
-<h3>code's are in dogbot.ino</h3>
+<h3>code's are in the file of dogbot.ino </h3>
 
